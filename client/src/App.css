@@ -1,0 +1,16 @@
+.listgroups-header {
+    display: flex;
+}
+.b-header {
+    background-color: rgb(255 255 255 / 10%);
+    color: #f1f1f1;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    margin: 12px;
+    margin-left: 0px;
+}
+.br-header{
+    position: absolute;
+    right: 0%;
+}

@@ -1,0 +1,16 @@
+.mainHeader {
+    padding-top: 0px;
+    display: flex;
+}
+
+.mainLogo {
+    padding: 15px;
+    margin: 15px;
+    width: 150px;
+}
+
+.mainText {
+    display: flex;
+    padding-left: 300px;
+    color: #6a2afb;
+}

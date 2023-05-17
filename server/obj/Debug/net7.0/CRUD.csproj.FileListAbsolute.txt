@@ -1,0 +1,234 @@
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/appsettings.Development.json
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/appsettings.json
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/CRUD
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/CRUD.deps.json
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/CRUD.runtimeconfig.json
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/CRUD.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/CRUD.pdb
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Azure.Core.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Azure.Identity.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Humanizer.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Npgsql.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/System.CodeDom.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/CRUD.csproj.AssemblyReference.cache
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/CRUD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/CRUD.AssemblyInfoInputs.cache
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/CRUD.AssemblyInfo.cs
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/CRUD.csproj.CoreCompileInputs.cache
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/CRUD.MvcApplicationPartsAssemblyInfo.cs
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/CRUD.MvcApplicationPartsAssemblyInfo.cache
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/staticwebassets/msbuild.CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/staticwebassets/msbuild.build.CRUD.props
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CRUD.props
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CRUD.props
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/staticwebassets.build.json
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/staticwebassets.development.json
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/scopedcss/bundle/CRUD.styles.css
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/CRUD.csproj.CopyComplete
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/CRUD.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/refint/CRUD.dll
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/CRUD.pdb
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/CRUD.genruntimeconfig.cache
+/Users/vcent/Documents/alterna/BC09/CRUD/obj/Debug/net7.0/ref/CRUD.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/appsettings.json
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/appsettings.Development.json
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/CRUD
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/CRUD.deps.json
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/CRUD.runtimeconfig.json
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/CRUD.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/CRUD.pdb
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Azure.Core.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Azure.Identity.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Humanizer.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Npgsql.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/System.CodeDom.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/CRUD.csproj.AssemblyReference.cache
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/CRUD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/CRUD.AssemblyInfoInputs.cache
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/CRUD.AssemblyInfo.cs
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/CRUD.csproj.CoreCompileInputs.cache
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/CRUD.MvcApplicationPartsAssemblyInfo.cs
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/CRUD.MvcApplicationPartsAssemblyInfo.cache
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/staticwebassets/msbuild.CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.CRUD.props
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CRUD.props
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CRUD.props
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/staticwebassets.build.json
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/staticwebassets.development.json
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/scopedcss/bundle/CRUD.styles.css
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/CRUD.csproj.CopyComplete
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/CRUD.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/refint/CRUD.dll
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/CRUD.pdb
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/CRUD.genruntimeconfig.cache
+/Users/vcent/Documents/Coding/Manager Students/WepAPI/obj/Debug/net7.0/ref/CRUD.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/appsettings.Development.json
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/appsettings.json
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/CRUD
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/CRUD.deps.json
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/CRUD.runtimeconfig.json
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/CRUD.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/CRUD.pdb
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Azure.Core.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Azure.Identity.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Humanizer.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Npgsql.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/System.CodeDom.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vcent/Documents/Management/server/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/CRUD.csproj.AssemblyReference.cache
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/CRUD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/CRUD.AssemblyInfoInputs.cache
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/CRUD.AssemblyInfo.cs
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/CRUD.csproj.CoreCompileInputs.cache
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/CRUD.MvcApplicationPartsAssemblyInfo.cs
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/CRUD.MvcApplicationPartsAssemblyInfo.cache
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/staticwebassets/msbuild.CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/staticwebassets/msbuild.build.CRUD.props
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CRUD.props
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CRUD.props
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/staticwebassets.build.json
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/staticwebassets.development.json
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/scopedcss/bundle/CRUD.styles.css
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/CRUD.csproj.CopyComplete
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/CRUD.dll
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/refint/CRUD.dll
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/CRUD.pdb
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/CRUD.genruntimeconfig.cache
+/Users/vcent/Documents/Management/server/obj/Debug/net7.0/ref/CRUD.dll
